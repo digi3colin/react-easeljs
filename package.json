@@ -1,6 +1,6 @@
 {
   "name": "react-easeljs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The react wrapper for easeljs Display Objects.",
   "main": "react-easeljs.js",
   "scripts": {
