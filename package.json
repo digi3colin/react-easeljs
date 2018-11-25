@@ -1,0 +1,23 @@
+{
+  "name": "react-easeljs",
+  "version": "0.0.1",
+  "description": "The react wrapper for easeljs Display Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digi3colin/react-easeljs.git"
+  },
+  "keywords": [
+    "react",
+    "easeljs"
+  ],
+  "author": "Colin Leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digi3colin/react-easeljs/issues"
+  },
+  "homepage": "https://github.com/digi3colin/react-easeljs#readme"
+}
