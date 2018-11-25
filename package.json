@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/digi3colin/react-easeljs/issues"
   },
-  "homepage": "https://github.com/digi3colin/react-easeljs#readme"
+  "homepage": "https://github.com/digi3colin/react-easeljs#readme",
+  "dependencies": {
+    "easeljs": "^1.0.2",
+    "react": "^16.6.3"
+  }
 }
